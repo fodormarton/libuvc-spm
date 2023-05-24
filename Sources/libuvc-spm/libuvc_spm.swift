@@ -1,4 +1,1 @@
-public struct libuvc_spm {
-    public init() {
-    }
-}
+import libuvc
